@@ -1,0 +1,102 @@
+.top{
+  position: relative;
+  padding-top: 100px;
+
+}
+.Mid{
+margin: 100px 0;
+}
+.Bottom{
+  background-color: #43d8c9;
+  padding: 50px 0 20px;
+}
+
+.img2{
+  position: absolute;
+  right: 250px;
+  top: 1px;
+
+}
+.img1{
+  position: absolute;
+  right: 1100px;
+  bottom: 300px;
+}
+h1{
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  color: #66BFBF;
+  line-height: 2;
+}
+h2{
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+h3{
+  font-family: 'Tenali Ramakrishna', sans-serif;
+  color: #11999E;
+  font-size: 2rem;
+}
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto;
+}
+body{
+  color: #40514E;
+  text-align: center;
+  background-color: #dbdbdb;
+  margin: 0;
+
+}
+a{
+  color: #11999E;
+  font-family: 'Noto Sans KR', sans-serif;
+  font: 30px;
+  margin: 10px 20px;
+  text-decoration: none;
+
+}
+a:hover{
+  color: #EAF6F6;
+
+}
+p{
+  line-height: 1.5;
+}
+/*.p1{
+  font-size: 200%;
+}
+.title{
+
+}*/
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.skills1{
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+
+
+}
+.skill{
+  width: 15%;
+  float: right;
+  margin-left: 30px;
+}
+.bio{
+  width: 30%;
+  margin: auto;
+}
+.copy-right{
+  color: #EAF6F6;
+  font-size: 75%;
+  padding: 20px 0;
+}
